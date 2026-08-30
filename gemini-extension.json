@@ -1,0 +1,12 @@
+{
+  "name": "world-clock",
+  "version": "1.0.0",
+  "description": "Tell the current time in any IANA timezone, and convert a time between two zones.",
+  "mcpServers": {
+    "world-clock": {
+      "command": "node",
+      "args": ["${extensionPath}${/}index.js"],
+      "cwd": "${extensionPath}"
+    }
+  }
+}
