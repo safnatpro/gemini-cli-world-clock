@@ -14,3 +14,5 @@ gemini extensions install https://github.com/safnatpro/gemini-cli-world-clock
 ## License
 
 MIT
+
+<!-- Installable with `gemini extensions install https://github.com/safnatpro/gemini-cli-world-clock` -->
